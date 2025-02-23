@@ -9,7 +9,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/jesWeb/Api_Music.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github.com/jesWeb/Api_Music" alt="API MUSIC" />
     	</a>
   </p>
 </div>
