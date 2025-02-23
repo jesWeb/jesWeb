@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesús Gutiérrez</h1>
+<h1 align="center">Hi <span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></span>, I'm Jesús Gutiérrez </h1>
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
