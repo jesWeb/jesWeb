@@ -1,7 +1,7 @@
 
 
 
-# 💫 About Me:
+#  👨🏻‍💻 &nbsp;About Me 😀
 Soy Desarrollador frontend con formación en Ingeniería en Desarrollo y Gestión de Software y experiencia en proyectos web colaborativos. He trabajado con tecnologías como JavaScript y React, enfocándome en crear interfaces responsivas y mejorar la experiencia de usuario. Me considero autodidacta, creativo y orientado a resultados, con disposición para adaptarme a nuevas tecnologías y entornos de trabajo.
 
 
